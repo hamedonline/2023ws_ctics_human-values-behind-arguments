@@ -18,7 +18,11 @@ General information about the contributors and their tasks are listed in the tab
 
 ## Presentation Slides & Report (Paper)
 
-The presentation slides and the report (paper) are available in the `presentation-slides` [(click to download presentation PDF)](./presentation-slides/CTiC_Presentation.pdf) and `report-paper` folders of the repository, respectively.
+The presentation slides and the report (paper) are available in the `presentation-slides` and `report-paper` folders of the repository, respectively. Alternatively, you may download the files directly via the following:
+
+[Click to download "Presentation Slides"](./presentation-slides/CTiC_Presentation.pdf)
+
+[Click to download "Report Paper"](./report-paper/report-paper_(ACL-2023-proceedings-template).pdf)
 
 ## Running the Code & Reproducing the Results
 
